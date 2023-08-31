@@ -1,5 +1,5 @@
 
-  # ReadMe Generator
+  # Read
 
   ## License: MIT  ![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)
   ### https://choosealicense.com/licenses/mit/
@@ -14,17 +14,17 @@
 
   ## Installation:
   ### You must install the following for this app to function:
-  ### You will need to download the code from my GitHub and install Node JS.
+  ### Node JS
 
   ## Usage:
-  ### This will give the users the ability to make readme files through the terminal and not be made from scratch.
+  ### create readme
 
   ## Contributors:
-  ### Code will need to provided and I want to give trubute to Kolby Pinkston.
+  ### Tye
 
   ## Tests:
   ### Run the following commands in your terminal to test this app:
-  ### Used the Node Index.js command in an intergrated terminal.
+  ### vscode
 
   ## Questions:
   ### If you have any questions, you may contact me at either

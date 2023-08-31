@@ -76,7 +76,7 @@ function generateMarkdown(data) {
 
   ## Questions:
   ### If you have any questions, you may contact me at either
-  ### Github: https://github.com/${data.askMe}
+  ### Github: https://github.com/${data.github}
   ### or
   ### Email: ${data.email}
 `;
